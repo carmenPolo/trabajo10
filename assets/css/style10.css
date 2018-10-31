@@ -1,0 +1,28 @@
+body{
+  margin:0;
+}
+.navbar-default {
+  background-color: black;
+  border: none;
+  border-radius: 0;
+  margin-bottom: 0;
+}
+.navbar-default .navbar-nav > li > a {
+    color: white;
+}
+
+.header__main < img{
+width: 100px;
+}
+
+.header__main{
+  font-family:"Playfair Display";
+  font-weight: bolder;
+  font-style: italic;
+  color: white;
+  background-image: url(../img/post-image.jpg);
+  height: 70vh;
+}
+h1{
+  margin: 0;
+}
